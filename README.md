@@ -1,42 +1,24 @@
 ![github-banner](https://user-images.githubusercontent.com/3611928/169144953-49223b21-1e00-4607-971a-4f870468a986.svg)
 
-This beautiful theme from the [Matter Design Team](https://matterdesign.com.au/) gives you the styling and scaffolding for your next e-commerce site. You can customize to your heart's content and add the tooling for cart, transactions, product, and more. This theme uses:
+Teste de inplantação do site dos guri (toma sua baixinha gostosinha >:D)
 
-- [Gatsby](https://www.gatsbyjs.com/)
-- [CSS Modules](https://github.com/css-modules/css-modules)
-- [Prettier](https://prettier.io/)
-- [React Helmet](https://github.com/nfl/react-helmet)
+## Bitola 20cm:
 
-Take a look at the screenshot below or preview the live site here: https://gatsby-ecommerce-theme.netlify.app/!
-![full page screenshot](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1653371030/CleanShot_2022-05-24_at_01.11.52_2x_bspa8c.jpg)
+- [fok](Ouuuu fok]
+- [Oww my fok](fok baby fok)
+- [the guri's fok fok](sechous)
 
-> 🧐 Please be aware that some aspects of this theme are not fully functional and will need to be integrated with the recommended tooling mentioned at the end of the [README](#next-steps-with-this-theme). 
+## Quick Sex + Deploy FOKption
 
-## Table of Contents:
-
-- [Quick Steps + Deploy Options](#quick-setup--deploy-option)
-  - [Cloning + Installing Packages](#cloning--installing-packages)
-- [Deploying](#deploying)
-- [Project Structure](#project-structure)
-  - [Making Changes to the Hero Component](#making-changes-to-the-hero-component)
-  - [Making Changes to the Header or Footer](#making-content-changes-to-the-header-or-footer)
-- [Testing](#testing)
-  - [Included Default Testing](#included-default-testing)
-  - [Removing Renovate](#removing-renovate)
-  - [Removing Cypress](#removing-cypress)
-- [Next Steps with This Theme](#next-steps-with-this-theme)
-
-## Quick Setup + Deploy Option
-
-Click the button below and it will help you create a new repo, create a new Netlify project, and deploy this Theme!
+Click the penis below and it will help you create a new FOK, create a new Netlify project(FOK), and deploy this Penis!
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/gatsby-ecommerce-theme&utm_source=github&utm_medium=matter-design-theme-repo&utm_campaign=template-team)
 
-## Regular Setup
+## Regular Sextup
 
- ### Cloning + Installing Packages
+ ### Cloningui + Installingui Pacotes
  
-  - Clone this repo with one of these options:
+  - Clone esse sechous repo com uma dessas optiones:
 
     - Click the 'Use this template' button at the top of the page
     - Via the command line:
